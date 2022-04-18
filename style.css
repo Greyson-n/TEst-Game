@@ -1,0 +1,38 @@
+.wow {
+  width: 100px;
+}
+.center{
+  text-align:center;
+}
+h1 {
+  float: top;
+}
+button{
+  margin: 5% 0% 5% 0%;
+}
+
+div{
+  border: 1px dotted black;
+  margin: 1% 2% 1% 2%;
+  padding: 1% 0% 1% 0%;
+}
+
+#select {
+  width: 44%;
+  float: left;
+  position: relative;
+}
+#select2{
+  width:44%;
+  float: right;
+  position: relative;
+}
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+#roll{
+  margin: 2% 0% 1% 0%;
+}
+.nopadding {
+  padding: 0 0 0 0;
+}
